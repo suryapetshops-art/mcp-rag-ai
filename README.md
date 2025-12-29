@@ -1,1 +1,1 @@
-# mcp-rag-ai
+[![Deploy to Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/new)
